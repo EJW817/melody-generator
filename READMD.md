@@ -59,21 +59,6 @@ output_motif_sections.wav
 
 Use any MP3 encoder (e.g., ffmpeg, lame) if you need compressed audio for web playback.
 
-📁 Project Structure
-.
-main.py
-generator
-   rhythm.py
-   rules.py
-   motif.py
-   synthesis.py
-settings.json
-LOG.txt
-README.md
-
-
-(Adjust to match your actual structure.)
-
 🔬 Future Work
 
 Add ML-based melodic modeling
