@@ -61,15 +61,15 @@ Use any MP3 encoder (e.g., ffmpeg, lame) if you need compressed audio for web pl
 
 📁 Project Structure
 .
-├── main.py
-├── generator/
-│   ├── rhythm.py
-│   ├── rules.py
-│   ├── motif.py
-│   └── synthesis.py
-├── settings.json
-├── LOG.txt
-└── README.md
+main.py
+generator/
+│   rhythm.py
+│   rules.py
+│   motif.py
+│   synthesis.py
+settings.json
+LOG.txt
+README.md
 
 
 (Adjust to match your actual structure.)
